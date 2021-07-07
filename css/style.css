@@ -1,5 +1,35 @@
+.navbar {
+    background-color: rgb(253, 8, 8);
+}
 .navbar-brand img {
     display: block;
     max-height: 3rem;
     width: auto;
+}
+
+
+
+.hero {
+    background-image: url(https://f.hubspotusercontent40.net/hub/2577343/hubfs/new%20website%20hero%20background%20image%20%281%29.png?width=1440&name=new%20website%20hero%20background%20image%20%281%29.png);
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+
+}
+
+.banner {
+    padding: 100px 20vh;
+}
+
+.built4-container {
+    background-image: url(https://f.hubspotusercontent40.net/hub/2577343/hubfs/Brand2Files/Untitled%20design%20%2829%29.png?width=2880&name=Untitled%20design%20%2829%29.png);
+
+}
+
+video {
+    
+    width: 500px;
 }
