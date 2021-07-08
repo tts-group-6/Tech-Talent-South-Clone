@@ -1,6 +1,4 @@
-.navbar {
-    background-color: rgb(253, 8, 8);
-}
+
 .navbar-brand img {
     display: block;
     max-height: 3rem;
@@ -32,4 +30,13 @@
 video {
     
     width: 500px;
+}
+
+
+.footer-container {
+    background-color: #fff;
+}
+
+.footer-container img {
+    height: 86px;
 }
