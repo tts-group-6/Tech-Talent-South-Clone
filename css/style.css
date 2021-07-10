@@ -7,16 +7,23 @@
     width: auto;
 }
 
-
+.top-nav {
+    background-color: #fff;
+    min-height: 100px;
+}
 
 .hero {
     background-image: url(https://f.hubspotusercontent40.net/hub/2577343/hubfs/new%20website%20hero%20background%20image%20%281%29.png?width=1440&name=new%20website%20hero%20background%20image%20%281%29.png);
     width: 100%;
     height: 100%;
+    min-height: 900px;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    
+}
+
+.hero-text {
+    padding-top: 20rem !important;
 
 }
 
@@ -53,8 +60,8 @@
 }
 
 .ready2-container h5 {
- font-size: 20px;
- font-weight: 600;
+    font-size: 20px;
+    font-weight: 600;
 }
 
 h3 {
@@ -76,7 +83,7 @@ h5 {
 }
 
 video {
-    
+
     width: 500px;
     max-width: 100%;
 }
@@ -89,8 +96,9 @@ video {
 .footer-container img {
     height: 86px;
 }
+
 .social-nav i {
     padding: 6px;
     width: 35px;
-    
+
 }
